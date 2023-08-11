@@ -1,0 +1,6 @@
+C:\Users\sw_304\Desktop\수강생 101\김영곤\Cardgame\Cardgame\obj\Debug\Cardgame.csprojAssemblyReference.cache
+C:\Users\sw_304\Desktop\수강생 101\김영곤\Cardgame\Cardgame\obj\Debug\Cardgame.Form1.resources
+C:\Users\sw_304\Desktop\수강생 101\김영곤\Cardgame\Cardgame\obj\Debug\Cardgame.Form2.resources
+C:\Users\sw_304\Desktop\수강생 101\김영곤\Cardgame\Cardgame\obj\Debug\Cardgame.Properties.Resources.resources
+C:\Users\sw_304\Desktop\수강생 101\김영곤\Cardgame\Cardgame\obj\Debug\Cardgame.csproj.GenerateResource.cache
+C:\Users\sw_304\Desktop\수강생 101\김영곤\Cardgame\Cardgame\obj\Debug\Cardgame.csproj.CoreCompileInputs.cache
